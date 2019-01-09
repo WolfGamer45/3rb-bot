@@ -17,7 +17,7 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~3rb bot~~__ By: Wolf Gamer#3068
+**__~~3rb bot~~__ By: Wolf Gamer#3068
 
 
 ╔[❖════════════❖]╗
@@ -45,7 +45,10 @@ __~~3rb bot~~__ By: Wolf Gamer#3068
  ❖ $hide ➾ to hide channel 
  
  ❖ $show ➾ to show channel 
+ 
+ ❖ $new ➾ to open tickit
 
+ ❖ $close ➾ to close tickit
 ╔[❖════════════❖]╗
             General  Commands
 ╚[❖════════════❖]╝
@@ -60,8 +63,6 @@ __~~3rb bot~~__ By: Wolf Gamer#3068
 
 ❖ $avatar ➾ your avatar account
 
-❖ *ping ➾ to see ping
- 
 ❖ $server ➾ server informations 
 
 ❖ $invite ➾ bot invite link
@@ -81,7 +82,7 @@ Server support: https://discord.gg/D7Y4aP
 
 bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=532604442785349642&permissions=0&scope=bot
 
-==================================================================
+==================================================================**
 
 `);
 
